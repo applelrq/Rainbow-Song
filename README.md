@@ -1,3 +1,3 @@
 # Rainbow-Song
 song of rainbow
-new add
+test of push
